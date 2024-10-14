@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hisn00
+- 👀 I’m interested in Ai,cybersecurity and programming
+- 🌱 I’m currently learning "I'm currently learning about machine learning, cloud computing, and cybersecurity."
+- 💞️ I’m looking for collaboration and mentorship opportunities
+- 📫 How to reach me hisnulmohammed1@gmail.com
