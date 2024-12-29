@@ -6,13 +6,13 @@
 - 💞️ I’m looking for collaboration and mentorship opportunities
 - 📫 How to reach me hisnulmohammed1@gmail.com
 
+
 ### Contact Me
 
-<a href="mailto:hisnulmohammed1@gmail.com"><i class="fa fa-envelope" style="font-size:40px"></i></a>
-<a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="fa fa-linkedin" style="font-size:40px"></i></a>
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=hisn00"><i class="fa fa-github" style="font-size:40px"></i></a>
-<a href="https://discord.com/users/hisnul._77601"><i class="fa fa-discord" style="font-size:40px"></i></a>
-
+<a href="mailto:hisnulmohammed1@gmail.com"><img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Email" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=hisn00"><img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+<a href="https://discord.com/users/hisnul._77601"><img src="https://img.icons8.com/ios/50/000000/discord.png" alt="Discord" width="40" height="40"/></a>
 
 
 ### Languages & Tools
