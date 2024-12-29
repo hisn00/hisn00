@@ -20,11 +20,6 @@
 > "Striving to learn and grow, one line of code at a time."
 
 
-### Skills
-- Python: ![Python](https://img.shields.io/badge/Level-Advanced-brightgreen)
-- JavaScript: ![JavaScript](https://img.shields.io/badge/Level-Intermediate-yellowgreen)
-- HTML: ![HTML](https://img.shields.io/badge/Level-Advanced-brightgreen)
-- CSS: ![CSS](https://img.shields.io/badge/Level-Intermediate-yellowgreen)
 
 
 ## 🎓 Certifications
