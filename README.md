@@ -44,6 +44,11 @@
 - **Description**: An IoT-based solution for automatic plant watering using sensors to monitor soil moisture levels. The system waters the plants as needed, ensuring efficient water usage.
 
 
+## 🚀 Future Projects
+- Build a personal assistant with AI
+- Develop a smart farming solution using IoT
+- Create an ethical hacking and penetration testing toolkit
+
 ### Contact Me
 
 <a href="mailto:hisnulmohammed1@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Email" width="40" height="40"/></a>
