@@ -34,7 +34,7 @@
 
 ## Projects
 
-### [hisn00](https://github.com/your-username/iot-automatic-plant-watering)
+### [hisn00](https://github.com/your-username/IOT-Automatic-Plant-Watering-System)
 - **Tech Used**: Arduino, IoT, Sensors
 - **Description**: An IoT-based solution for automatic plant watering using sensors to monitor soil moisture levels. The system waters the plants as needed, ensuring efficient water usage.
 
