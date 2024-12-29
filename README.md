@@ -27,6 +27,13 @@
 - CSS: ![CSS](https://img.shields.io/badge/Level-Intermediate-yellowgreen)
 
 
+## Projects
+
+### [hisn00](https://github.com/your-username/iot-automatic-plant-watering)
+- **Tech Used**: Arduino, IoT, Sensors
+- **Description**: An IoT-based solution for automatic plant watering using sensors to monitor soil moisture levels. The system waters the plants as needed, ensuring efficient water usage.
+
+
 ### Contact Me
 
 <a href="mailto:hisnulmohammed1@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Email" width="40" height="40"/></a>
