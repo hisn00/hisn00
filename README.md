@@ -8,13 +8,12 @@
 
 
 
-
 ### Contact Me
 
-<a href="mailto:hisnulmohammed1@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Gmail_logo_2013.svg" alt="Email" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=hisn00"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/></a>
-<a href="https://discord.com/users/hisnul._77601"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Discord_logo.svg" alt="Discord" width="40" height="40"/></a>
+- 📧 [Email](mailto:hisnulmohammed1@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🐙 [GitHub](https://quira.sh?utm_source=widgets&utm_campaign=hisn00)
+- 🎮 [Discord](https://discord.com/users/hisnul._77601)
 
 
 
