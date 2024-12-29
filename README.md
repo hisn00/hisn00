@@ -10,6 +10,9 @@
 ![hisn00](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 
+![hisn00](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+
 ### Contact Me
 
 <a href="mailto:hisnulmohammed1@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Email" width="40" height="40"/></a>
