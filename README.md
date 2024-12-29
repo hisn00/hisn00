@@ -28,8 +28,9 @@
 
 
 ## 🎓 Certifications
-- ![Python Certificate](https://img.shields.io/badge/Certificate-Python-blue)
+- ![Programming Certificate](https://img.shields.io/badge/Certificate-Programming-blue)
 - ![AI Certificate](https://img.shields.io/badge/Certificate-Artificial%20Intelligence-green)
+- ![Cybersecurity Certificate](https://img.shields.io/badge/Certificate-Cybersecurity-red)
 
 
 ## Projects
