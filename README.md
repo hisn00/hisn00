@@ -6,7 +6,6 @@
 - 💞️ I’m looking for collaboration and mentorship opportunities
 - 📫 How to reach me hisnulmohammed1@gmail.com
 
-
 ### Contact Me
 
 <a href="mailto:hisnulmohammed1@gmail.com"><i class="fa fa-envelope" style="font-size:40px"></i></a>
