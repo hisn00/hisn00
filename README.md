@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @hisn00
 - 👀 I’m interested in cybersecurity and programming
-- 🌱 I'm currently learning about programming and cybersecurity.
+- 🌱 I'm currently learning about machine learning and cybersecurity.
 - 💞️ I’m looking for collaboration and mentorship opportunities
 - 📫 How to reach me hisnulmohammed1@gmail.com
 
@@ -32,6 +32,10 @@
 - ![AI Certificate](https://img.shields.io/badge/Certificate-Artificial%20Intelligence-green)
 - ![Cybersecurity Certificate](https://img.shields.io/badge/Certificate-Cybersecurity-red)
 
+
+## 📚 Currently Learning
+- **Machine Learning** with TensorFlow
+- **Cybersecurity** essentials
 
 ## Projects
 
