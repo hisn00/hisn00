@@ -9,11 +9,10 @@
 
 ### Contact Me
 
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:hisnulmohammed1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://quira.sh?utm_source=widgets&utm_campaign=hisn00)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/hisnul._77601)
-
+<a href="mailto:hisnulmohammed1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=hisn00"><img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+<a href="https://discord.com/users/hisnul._77601"><img src="https://img.icons8.com/ios/50/000000/discord.png" alt="Discord" width="40" height="40"/></a>
 
 
 
