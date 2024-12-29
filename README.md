@@ -17,6 +17,9 @@
 ![hisn00](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 
+> "Striving to learn and grow, one line of code at a time."
+
+
 ### Skills
 - Python: ![Python](https://img.shields.io/badge/Level-Advanced-brightgreen)
 - JavaScript: ![JavaScript](https://img.shields.io/badge/Level-Intermediate-yellowgreen)
