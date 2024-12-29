@@ -10,10 +10,10 @@
 
 ### Contact Me
 
-<a href="mailto:hisnulmohammed1@gmail.com"><img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/envelope.svg" alt="Email" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=hisn00"><img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/github.svg" alt="GitHub" width="40" height="40"/></a>
-<a href="https://discord.com/users/hisnul._77601"><img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/discord.svg" alt="Discord" width="40" height="40"/></a>
+<a href="mailto:hisnulmohammed1@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=hisn00"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+<a href="https://discord.com/users/hisnul._77601"><img src="https://img.icons8.com/ios-filled/50/000000/discord.png" alt="Discord" width="40" height="40"/></a>
 
 
 
