@@ -17,6 +17,12 @@
 ![hisn00](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 
+### Skills
+- Python: ![Python](https://img.shields.io/badge/Level-Advanced-brightgreen)
+- JavaScript: ![JavaScript](https://img.shields.io/badge/Level-Intermediate-yellowgreen)
+- HTML: ![HTML](https://img.shields.io/badge/Level-Advanced-brightgreen)
+- CSS: ![CSS](https://img.shields.io/badge/Level-Intermediate-yellowgreen)
+
 
 ### Contact Me
 
