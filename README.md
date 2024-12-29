@@ -9,10 +9,11 @@
 
 ### Contact Me
 
-<a href="mailto:hisnulmohammed1@gmail.com"><img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Email" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=hisn00"><img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="40" height="40"/></a>
-<a href="https://discord.com/users/hisnul._77601"><img src="https://img.icons8.com/ios/50/000000/discord.png" alt="Discord" width="40" height="40"/></a>
+<a href="mailto:hisnulmohammed1@gmail.com"><img src="https://img.icons8.com/ios/50/ffffff/gmail.png" alt="Email" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/ios/50/ffffff/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=hisn00"><img src="https://img.icons8.com/ios/50/ffffff/github.png" alt="GitHub" width="40" height="40"/></a>
+<a href="https://discord.com/users/hisnul._77601"><img src="https://img.icons8.com/ios/50/ffffff/discord.png" alt="Discord" width="40" height="40"/></a>
+
 
 
 ### Languages & Tools
