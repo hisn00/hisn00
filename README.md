@@ -27,6 +27,11 @@
 - CSS: ![CSS](https://img.shields.io/badge/Level-Intermediate-yellowgreen)
 
 
+## 🎓 Certifications
+- ![Python Certificate](https://img.shields.io/badge/Certificate-Python-blue)
+- ![AI Certificate](https://img.shields.io/badge/Certificate-Artificial%20Intelligence-green)
+
+
 ## Projects
 
 ### [hisn00](https://github.com/your-username/iot-automatic-plant-watering)
