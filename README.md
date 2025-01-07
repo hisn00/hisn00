@@ -16,6 +16,8 @@
 
 
 
+![GitHub Contribution Heatmap](https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=highcontrast)
+
 
 ## 🎓 Certifications
 - ![Programming Certificate](https://img.shields.io/badge/Certificate-Programming-blue)
