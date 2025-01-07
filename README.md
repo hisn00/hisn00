@@ -15,10 +15,6 @@
 > "Striving to learn and grow, one line of code at a time."
 
 
-
-![GitHub Contribution Heatmap](https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=highcontrast) 
-
-
 ## 🎓 Certifications
 - ![Programming Certificate](https://img.shields.io/badge/Certificate-Programming-blue)
 - ![AI Certificate](https://img.shields.io/badge/Certificate-Artificial%20Intelligence-green)
