@@ -11,11 +11,6 @@
 - 💞️ I’m looking for collaboration and mentorship opportunities
 - 📫 How to reach me hisnulmohammed1@gmail.com
 
-![hisn00](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-
-![hisn00](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
 
 > "Striving to learn and grow, one line of code at a time."
 
