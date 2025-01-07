@@ -20,8 +20,8 @@
 - ![AI Certificate](https://img.shields.io/badge/Certificate-Artificial%20Intelligence-green)
 - ![Cybersecurity Certificate](https://img.shields.io/badge/Certificate-Cybersecurity-red)
 
-<img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/banner.svg" alt="Creative Banner">
-## 📚 Currently Learning
+
+## 📚 Currently Learning 
 - **Machine Learning** with TensorFlow
 - **Cybersecurity** essentials
 
