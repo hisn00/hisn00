@@ -12,7 +12,7 @@
 - 📫 How to reach me hisnulmohammed1@gmail.com
 
 
-> "Striving to learn and grow, one line of code at a time."
+> Striving to learn and grow one line of code at a time.
 
 
 ## 🎓 Certifications
