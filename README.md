@@ -5,7 +5,7 @@
 
 ## Welcome to my github profile!
 
-- 👋 Hi, I’m @hisn00
+- 👋 Hi, I’m hisnul
 - 👀 I’m interested in cybersecurity and programming
 - 🌱 I'm currently learning about machine learning and cybersecurity.
 - 💞️ I’m looking for collaboration and mentorship opportunities
