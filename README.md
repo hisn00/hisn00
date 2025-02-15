@@ -15,12 +15,6 @@
 > Exploring tech and learning everyday!
 
 
-## 🎓 Certifications
-- ![Programming Certificate](https://img.shields.io/badge/Certificate-Programming-blue)
-- ![AI Certificate](https://img.shields.io/badge/Certificate-Artificial%20Intelligence-green)
-- ![Cybersecurity Certificate](https://img.shields.io/badge/Certificate-Cybersecurity-red)
-
-
 ## 📚 Currently Learning 
 - **Machine Learning** with TensorFlow
 - **Cybersecurity** essentials
