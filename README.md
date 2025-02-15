@@ -28,7 +28,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hisn00&theme=radical)
 
-![Hisnul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hisn00&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hisn00&layout=compact&theme=radical)
 
 ## Projects
 
