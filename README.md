@@ -25,6 +25,9 @@
 - **Machine Learning** with TensorFlow
 - **Cybersecurity** essentials
 
+
+![Hisnul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hisn00&show_icons=true&theme=radical)
+
 ## Projects
 
 ### [hisn00](https://github.com/your-username/IOT-Automatic-Plant-Watering-System)
