@@ -25,6 +25,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hisn00&layout=compact&theme=radical)
 
+
+### 🐍 Contribution Graph  
+![Snake animation](https://github.com/hisn00/hisn00/blob/output/github-contribution-grid-snake.svg)
+
 ## Projects
 
 ### [hisn00](https://github.com/your-username/IOT-Automatic-Plant-Watering-System)
