@@ -1,5 +1,5 @@
 
-## Hello, I'm Hisnul! 👋
+## Hello I'm Hisnul! 👋
 - Good morning if you're in the morning timezone 🌞
 - Good evening if you're in the evening timezone 🌙
 
@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m hisnul
 - 👀 I’m interested in cybersecurity and programming
-- 🌱 I'm currently learning about machine learning and cybersecurity.
+- 🌱 I'm currently learning about cybersecurity.
 - 💞️ I’m looking for collaboration and mentorship opportunities
 - 📫 How to reach me hisnulmohammed1@gmail.com
 
@@ -16,7 +16,7 @@
 
 
 ## 📚 Currently Learning 
-- **Machine Learning** with TensorFlow
+- **Python** programming 
 - **Cybersecurity** essentials
 
 
@@ -31,13 +31,6 @@
 
 ### 👀 Profile Views  
 ![Visitor Count](https://komarev.com/ghpvc/?username=hisn00&color=blue)
-
-## Projects
-
-### [hisn00](https://github.com/your-username/IOT-Automatic-Plant-Watering-System)
-- **Tech Used**: Arduino, IoT, Sensors
-- **Description**: An IoT based solution for automatic plant watering using sensors to monitor soil moisture levels. The system waters the plants as needed and ensures efficient water usage.
-
 
 ## 🚀 Future Projects
 - Build a personal assistant with AI
