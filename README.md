@@ -6,7 +6,7 @@
 ## Welcome to my github profile!
 
 - 👋 Hi, I’m hisnul
-- 👀 I’m interested in cybersecurity and programming
+- 👀 I’m interested in cybersecurity and Artificial intelligence 
 - 🌱 I'm currently learning about cybersecurity.
 - 💞️ I’m looking for collaboration and mentorship opportunities
 - 📫 How to reach me hisnulmohammed1@gmail.com
