@@ -36,9 +36,10 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=hisn00&color=blue)
 
 ## 🚀 Future Projects
-- Build a personal assistant with AI
-- Develop a smart farming solution using IoT
-- Create an ethical hacking and penetration testing toolkit
+- Build a personal assistant with AI  
+- Develop an open source penetration testing toolkit  
+- Create a beginner friendly CTF platform for cybersecurity learners
+
 
 ### Contact Me
 
