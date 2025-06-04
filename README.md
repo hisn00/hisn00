@@ -12,7 +12,7 @@
 - 📫 How to reach me hisnulmohammed1@gmail.com
 
 
-> Exploring tech and learning everyday!
+> Exploring tech and learning everyday!!
 
 
 ## 📚 Currently Learning 
