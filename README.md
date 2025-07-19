@@ -36,12 +36,6 @@
 ### 👀 Profile Views  
 ![Visitor Count](https://komarev.com/ghpvc/?username=hisn00&color=blue)
 
-## 🚀 Future Projects
-- Build a personal assistant with AI  
-- Develop an open source penetration testing toolkit  
-- Create a beginner friendly CTF platform for cybersecurity learners
-
-
 ### Contact Me
 
 <a href="mailto:hisnulmohammed1@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Email" width="40" height="40"/></a>
