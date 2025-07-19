@@ -1,8 +1,8 @@
 
 
-## Hello I'm Hisnul! 👋
-- Good morning if you're in the morning timezone 🌞
-- Good evening if you're in the evening timezone 🌙
+## Hello I'm Hisnul!👋
+- Good morning if u're in the morning timezone🌞
+- Good evening if u're in the evening timezone🌙
 
 ## Welcome to my github profile!
 
