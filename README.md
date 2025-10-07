@@ -32,9 +32,6 @@
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hisn00&layout=compact&theme=radical)
-
-
 ### 👀 Profile Views  
 ![Visitor Count](https://komarev.com/ghpvc/?username=hisn00&color=blue)
 
