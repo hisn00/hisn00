@@ -26,6 +26,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hisn00&theme=tokyonight)
 
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisn00&langs_count=15&layout=compact&theme=tokyonight)
+
+
 ### 👋 Hi there!  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Beginner;Aspiring+Ethical+Hacker;Learning+Pentesting+%26+CTFs;Exploring+Cyber+Security+Fundamentals)](https://git.io/typing-svg)
 
