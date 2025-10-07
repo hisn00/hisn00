@@ -23,7 +23,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hisn00&theme=radical)
 
-
+![Hisnul's GitHub stats](https://github-readme-stats.vercel.app/api?username=HisnulMohammed&show_icons=true&theme=tokyonight)
 
 ### 👋 Hi there!  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Beginner;Aspiring+Ethical+Hacker;Learning+Pentesting+%26+CTFs;Exploring+Cyber+Security+Fundamentals)](https://git.io/typing-svg)
