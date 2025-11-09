@@ -1,24 +1,77 @@
+## 👋 Hello, I'm Hisnul Mohammed!
+> Exploring Cybersecurity, AI, and the endless world of technology 🔐🤖
 
+- 🌞 Good morning if you're starting your day!
+- 🌙 Good evening if you're winding down!
 
-## Hello I'm Hisnul!👋
-- Good morning if u're in the morning timezone🌞
-- Good evening if u're in the evening timezone🌙
+---
 
-## Welcome to my github profile!
+### 👩‍💻 About Me
+- 👀 Interested in **Cybersecurity** and **Artificial Intelligence**
+- 🌱 Currently learning and practicing **Penetration Testing**, **CTFs**, and **Python for Security**
+- 💞️ Open to **collaboration** and **mentorship** in tech, security, and AI projects
+- 📫 Reach me at **hisnulmohammed1@gmail.com**
+- 🎯 Goal: To become an **Ethical Hacker** and contribute to a **safer digital world**
 
-- 👋 Hi, I’m hisnul
-- 👀 I’m interested in cybersecurity and Artificial intelligence 
-- 🌱 I'm currently learning about cybersecurity.
-- 💞️ I’m looking for collaboration and mentorship opportunities
-- 📫 How to reach me hisnulmohammed1@gmail.com
+> “Stay curious, break things ethically, and learn from every bug!”
 
+---
 
-> Exploring tech and learning everyday!!
+### 🧠 Currently Exploring
+- **Penetration Testing** (Web, Network, System)
+- **CTFs** and **Hack The Box Challenges**
+- **Python for Automation and Security Tools**
+- **Linux (Kali, Ubuntu)** for ethical hacking
+- **Cybersecurity Fundamentals & Threat Analysis**
+- **AI in Security** (Malware detection, anomaly detection)
 
+---
 
-## 📚 Currently Learning 
-- **Python** programming 
-- **Cybersecurity** essentials
+### 🛠️ Tech Stack
+
+#### 💻 Programming & Scripting
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</p>
+
+#### 🔐 Cybersecurity Tools & Platforms
+<p align="left">
+<img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/metasploit.png" alt="Metasploit" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/burp-suite.png" alt="Burp Suite" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/wireshark.png" alt="Wireshark" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/nmap.png" alt="Nmap" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/linux.png" alt="Linux" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/hack-the-box.png" alt="Hack The Box" width="40" height="40"/>
+</p>
+
+#### ⚙️ Development & Design Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📚 Learning Path
+```mermaid
+graph TD
+A[Start: Curiosity for Tech 🔍] --> B[Python Programming 🐍]
+B --> C[Linux & Networking 🌐]
+C --> D[Cybersecurity Fundamentals 🔒]
+D --> E[Penetration Testing Tools 🧰]
+E --> F[Hack The Box & CTFs 🧩]
+F --> G[Ethical Hacker in Progress 💻]
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hisn00&theme=radical)
