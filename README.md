@@ -1,19 +1,24 @@
 
 
-## Hello I'm Hisnul!👋
-- Good morning if u're in the morning timezone🌞
-- Good evening if u're in the evening timezone🌙
+## 👋 Hello, I'm Hisnul Mohammed!
+> Exploring Cybersecurity, AI and the endless world of technology 🔐🤖
 
-## Welcome to my github profile!
+- 🌞 Good morning if you're starting your day!
+- 🌙 Good evening if you're winding down!
 
-- 👋 Hi, I’m hisnul
-- 👀 I’m interested in cybersecurity and Artificial intelligence 
-- 🌱 I'm currently learning about cybersecurity.
-- 💞️ I’m looking for collaboration and mentorship opportunities
-- 📫 How to reach me hisnulmohammed1@gmail.com
+---
 
+### 👩‍💻 About Me
+- 👀 Interested in **Cybersecurity** and **Artificial Intelligence**
+- 🌱 Currently learning and practicing **Cyber**, **CTFs**, and **Python for Security**
+- 💞️ Open to **collaboration** and **mentorship** in tech, security and AI projects
+- 📫 Reach me at **hisnulmohammed1@gmail.com**
+- 🎯 Goal: To become an **Ethical Hacker** and contribute to a **safer digital world**
 
-> Exploring tech and learning everyday!!
+> “Stay curious, break things ethically and learn from every bug!”
+
+---
+
 
 
 ## 📚 Currently Learning 
