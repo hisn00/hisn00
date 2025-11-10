@@ -20,12 +20,6 @@
 ---
 
 
-
-## 📚 Currently Learning 
-- **Python** programming 
-- **Cybersecurity** essentials
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hisn00&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hisn00&theme=tokyonight)
