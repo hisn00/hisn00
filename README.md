@@ -15,7 +15,7 @@
 - 📫 Reach me at **hisnulmohammed1@gmail.com**
 - 🎯 Goal: To become an **Ethical Hacker** and contribute to a **safer digital world**
 
-> “Stay curious, break things ethically and learn from every bug!”
+> Stay curious, break things ethically and learn from every bug!
 
 ---
 
