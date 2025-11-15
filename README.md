@@ -23,7 +23,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hisn00&theme=tokyonight)
 
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisn00&langs_count=15&layout=compact&theme=tokyonight)
 
 
 ### 👋 Hi there!  
