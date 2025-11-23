@@ -22,7 +22,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hisn00&theme=tokyonight)
 
-![tryhackme](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3803838" style='border:none;')
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisn00&langs_count=15&layout=compact&theme=tokyonight)
 
