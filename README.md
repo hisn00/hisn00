@@ -9,8 +9,8 @@
  -  �️ Open to **collaboration** and **mentorship** in tech, security and AI projects
  -📫 Reach me at **hisnulmohammed1@gmail.com**
  - 🎯 Goal: To become an **Ethical Hacker** and contribute to a **safer digital world**
- -
- -   > Stay curious, break things ethically and learn from every bug!
+ 
+  > Stay curious, break things ethically and learn from every bug!
      ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Beginner;Aspiring+Ethical+Hacker;Learning+Pentesting+%26+CTFs;Exploring+Cyber+Security+Fundamentals)](https://git.io/typing-svg)
  ### 👀 Profile Views 
