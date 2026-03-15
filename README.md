@@ -1,5 +1,5 @@
 ## Hello, I'm Hisnul Mohammed!
-> Exploring Cybersecurity, AI and the endless world of technology 🔐🤖
+> Exploring Cyber and the endless world of technology 
  - GM if u're starting your day! -
  - GN if u're winding down!
   ---
