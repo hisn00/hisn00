@@ -1,7 +1,6 @@
 ## Hello, I'm Hisnul Mohammed!
 > Exploring Cyber and the endless world of technology 
- - GM if u're starting your day!
- - GN if u're winding down!
+ 
   ---
  -  ### About Me
  -  Interested in **Cybersecurity** and **Artificial Intelligence**
