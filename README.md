@@ -6,7 +6,6 @@
  -  Interested in **Cybersecurity** and **Artificial Intelligence**
  -  Currently learning and practicing **Cyber**, **CTFs**, and **Python for Security**
  -  Open to **collaboration** and **mentorship** in tech, security and AI projects
- - Reach me at **hisnulmohammed1@gmail.com**
  - Goal: To become an **Ethical Hacker** and contribute to a **safer digital world**
  
   > Stay curious, break things ethically and learn from every bug!
